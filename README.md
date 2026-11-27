@@ -109,7 +109,7 @@ Correct the signup approval flow; hash passwords and strengthen authorization; a
 | Bicua, Shawm Anthiny | [Role; specific files/features; real commit or PR link] |
 | Enojo, Aerhic Tyrone B.  | [Role; specific files/features; real commit or PR link] |
 
-Section: [Section] | Instructor: [Name] | Date: [Date]
-Repository: [Actual URL]. 
+Section: IT-2107 | Instructor: [Name] | Date: [Date]
+Repository: https://github.com/Kage-damn/Buklat-Aklat.git. 
 
 
