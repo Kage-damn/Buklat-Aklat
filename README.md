@@ -90,7 +90,6 @@ Output example, limitations, and team information
 
 ### 8. Sample program output
 
-![Actual stdout excerpt from the unchanged program, rendered as an image. Redirected input is not echoed. Dates vary by runtime clock.](../screenshots/02-student-borrow.png)
 
 ### 9. Known limitations
 
@@ -106,9 +105,9 @@ Correct the signup approval flow; hash passwords and strengthen authorization; a
 
 | Name / username | Role and actual contribution |
 | --- | --- |
-| [Member name] | [Role; specific files/features; real commit or PR link] |
-| [Member name] | [Role; specific files/features; real commit or PR link] |
-| [Member name] | [Role; specific files/features; real commit or PR link] |
+| De Juan. Eric Harvey | [Role; specific files/features; real commit or PR link] |
+| Bicua, Shawm Anthiny | [Role; specific files/features; real commit or PR link] |
+| Enojo, Aerhic Tyrone B.  | [Role; specific files/features; real commit or PR link] |
 
 Section: [Section] | Instructor: [Name] | Date: [Date]
 Repository: [Actual URL]. 
